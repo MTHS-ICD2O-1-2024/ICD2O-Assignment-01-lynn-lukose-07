@@ -7,12 +7,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather');
 
 body {
-  background-color: #abc0ee;
+  background-color: #28184b;
 }
 
 .content {
-  background-color: #a1bdef;
-  color: #404E6D;
+  background-color: #baa0f7;
+  color: #28184b;
   font-family: "Merriweather", serif;
   max-width: 1080px;
   margin: 0 auto;
@@ -46,7 +46,7 @@ li {
   display: block;
   margin: 0 auto;
   border-radius: 50%;
-  border: 2px solid #404E6D;
+  border: 2px solid #28184b;
 }
 
 blockquote {
@@ -66,8 +66,8 @@ blockquote {
 .tl-img {
   width: 200px;
   height: 100px;
-  background-color: rgb(166, 189, 240);
-  border: 2px solid #404E6D;
+  background-color: rgb(194, 166, 240);
+  border: 2px solid #28184b;
   margin-right: 15px;
   float: left;
   margin-top: 10px;
@@ -87,7 +87,7 @@ blockquote {
 
 a {
   text-decoration: none;
-  color: #404E6D;
+  color: #28184b;
   margin: 20px
 }
 
